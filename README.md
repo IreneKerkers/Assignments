@@ -8,3 +8,4 @@
 
 [week 6 assignment](https://github.com/IreneKerkers/Assignments/blob/master/assignment4.ipynb)
 
+[week 8 assignment](https://github.com/IreneKerkers/Assignments/blob/master/assignment5.ipynb)
