@@ -9,3 +9,6 @@
 [week 6 assignment](https://github.com/IreneKerkers/Assignments/blob/master/assignment4.ipynb)
 
 [week 8 assignment](https://github.com/IreneKerkers/Assignments/blob/master/assignment5.ipynb)
+
+[Phyton final assignment](https://github.com/IreneKerkers/Assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
